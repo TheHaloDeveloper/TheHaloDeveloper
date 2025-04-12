@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on TowerStats<br>👯 I’m looking to collaborate on AI projects<br>🌱 I’m currently learning business + cyber security
+🔭 I’m currently working on TowerStats<br>
+👯 I’m looking to collaborate on AI projects<br>
+🌱 I’m currently learning business & competitive programming
 
 
 ## 🌐 Socials:
